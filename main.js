@@ -31,4 +31,4 @@ document.getElementById("seconds").innerHTML = seconds + "SECS";
 //   clearInterval(x);
 //   document.getElementById("timer").innerHTML = "EXPIRED";
 //   }
-// }, 1000);
+ }, 1000);
